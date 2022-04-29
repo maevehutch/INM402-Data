@@ -1,0 +1,7 @@
+,Pos,Nation,GamesPlayed,GamesWon,GamesDrawn,GamesLost,PointsFor,PointsAgainst,PointsDiff,TriesFor,TriesAgainst,BPGS,BPTries,BPLosing,TablePoints
+1,1,France,5,5,0,0,141,73,+68,17,7,3,2,0,25
+2,2,Ireland,5,4,0,1,168,63,+105,24,4,0,4,1,21
+3,3,England,5,2,0,3,101,96,+5,8,11,0,1,1,10
+4,4,Scotland,5,2,0,3,92,121,−29,11,15,0,1,1,10
+5,5,Wales,5,1,0,4,76,104,−28,8,8,0,0,3,7
+6,6,Italy,5,1,0,4,60,181,−121,5,27,0,0,0,4

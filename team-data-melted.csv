@@ -1,0 +1,25 @@
+,Nation,points_type,value
+0,France,BPGS,3
+1,Ireland,BPGS,0
+2,England,BPGS,0
+3,Scotland,BPGS,0
+4,Wales,BPGS,0
+5,Italy,BPGS,0
+6,France,BPTries,2
+7,Ireland,BPTries,4
+8,England,BPTries,1
+9,Scotland,BPTries,1
+10,Wales,BPTries,0
+11,Italy,BPTries,0
+12,France,BPLosing,0
+13,Ireland,BPLosing,1
+14,England,BPLosing,1
+15,Scotland,BPLosing,1
+16,Wales,BPLosing,3
+17,Italy,BPLosing,0
+18,France,Winning Points,20
+19,Ireland,Winning Points,16
+20,England,Winning Points,8
+21,Scotland,Winning Points,8
+22,Wales,Winning Points,4
+23,Italy,Winning Points,4
